@@ -13,6 +13,7 @@ IMC em adultos Condição:
 - Entre 30 e 40 Obeso;
 - Acima de 40 Obsesidade Grave;
 */
+
 const peso = 100;
 const altura = 1.80;
 
