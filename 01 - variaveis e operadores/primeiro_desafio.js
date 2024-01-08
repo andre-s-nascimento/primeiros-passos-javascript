@@ -9,7 +9,7 @@ Você terá 3 variáveis. Sendo elas:
 
 const precoPorLitro = 5.79;
 const kmsPorLitro = 12;
-const distanciaViagemKm = 1580;
+const distanciaViagemKm = 100;
 
 const litrosConsumidos = distanciaViagemKm / kmsPorLitro;
 const valorGastoViagem = litrosConsumidos * precoPorLitro
